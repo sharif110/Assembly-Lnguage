@@ -29,5 +29,5 @@ ALL concept from zero to Hero
     # If after changing files, they do not show up in dosbox, hit Ctrl+F4 inside the dosbox window. 
 
 
-Zip file contains the 16-bit NASM and "Advanced Fullscreen Debugger". 
+
 
